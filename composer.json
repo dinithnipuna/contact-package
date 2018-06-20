@@ -1,0 +1,19 @@
+{
+    "name": "drox/contact",
+    "description": "This will send email and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dinith Nipuna",
+            "email": "dinithnipuna@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Drox\\Contact\\": "src/"
+        }
+    },
+}
